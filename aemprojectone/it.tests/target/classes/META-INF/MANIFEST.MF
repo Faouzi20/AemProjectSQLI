@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520015217054
+Bnd-LastModified: 1520242405768
 Build-Jdk: 1.8.0_161
 Built-By: user
 Bundle-Description: Bundles for Integration Tests for aemprojectone
